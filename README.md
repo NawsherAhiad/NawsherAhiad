@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NawsherAhiad
 - 👀 I’m interested in Data Science ,RDBMS,Django development
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently a fresh graduate
+- 💞️ I’m looking to collaborate on software engineering and on AI
+- 📫 How to reach me: https://www.linkedin.com/in/muhammed-ahiad/
 
 <!---
 NawsherAhiad/NawsherAhiad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
