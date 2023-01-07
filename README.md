@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NawsherAhiad
-- 👀 I’m interested in Data Science ,RDBMS,Django development
+- 👀 I’m interested in Data Analytics, Machine Learning, RDBMS, Django development and Research field
 - 🌱 I’m currently a fresh graduate
 - 💞️ I’m looking to collaborate on software engineering and on AI
 - 📫 How to reach me: https://www.linkedin.com/in/muhammed-ahiad/
