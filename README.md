@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NawsherAhiad
+- 👋 Hi, I’m Ahiad Mahi
 - 👀 I’m interested in Data Analytics, Machine Learning, RDBMS, Django development and Research field
 - 🌱 I’m currently a fresh graduate
 - 💞️ I’m looking to collaborate on software engineering and on AI
