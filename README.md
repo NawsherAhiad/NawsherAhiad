@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahiad
 
-🎓 Software Engineer | 🤖 AI & ML Enthusiast | 📊 Data Analyst | 👨‍🏫 Educator
+🎓 Software Engineer | 🤖 AI & ML Engineer | 📊 Data Analyst | 👨‍🏫 Educator
 
 Welcome to my GitHub! I'm a versatile software engineer with a strong background in **Python**, **Java**, and **C++**, currently focused on building intelligent systems, full-stack applications, and insightful data-driven solutions. Whether it’s a backend API, a Java-based or Python Flask/Django-based project, or a hybrid algorithm for pattern recognition, I love turning ideas into working code and sharing knowledge with others through mentorship and education.
 
