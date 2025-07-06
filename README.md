@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm a versatile software engineer with a strong background
 A console-based OOP system in Java to manage hotel room bookings, payments, and revenue tracking. Features dynamic cost calculation, customer reservations, and a company account module.
 
 ### 🤖 Tree-Based Hybrid Genetic Algorithm for Density-Based Data Clustering (C)  
-An implementation of a custom hybrid metaheuristic algorithm for classification using the Iris/Wine/Parkinson/Seeds dataset, inspired by academic research (ICSEC2022).
+An implementation of a custom hybrid metaheuristic algorithm for classification using the Iris/Wine/Parkinson/Seeds dataset, inspired by academic research (ICECTE2022).
 
 ### 📊 Power BI Sales Dashboard  
 A data pipeline and dashboard system that aggregates sales KPIs and seasonal trends using Power BI, SQL, and advanced Excel.
