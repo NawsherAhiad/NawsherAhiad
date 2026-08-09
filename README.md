@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a versatile software engineer with a strong background
 ## 🔧 Tech Stack
 
 - **Languages:** Python, Java, C++, SQL  
-- **Web Development:** Django, Flask  
+- **Web Development:** Django, Flask, FastAPI  
 - **Data & AI:** Pandas, NumPy, scikit-learn, Power BI, Matplotlib, TensorFlow (Beginner), Hugging Face, OpenCV  
 - **Tools:** Git, VS Code, Jupyter, Linux, Oracle SQL Developer, Microsoft SQL Server, MySQL, Postman, Microsoft Fabric  
 - **Concepts:** OOP, SOLID Principles, SDLC, RESTful APIs, Machine Learning, Data Visualization, Algorithm Design, RDBMS, ORDBMS, Data Processing, Computer Networks  
@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a versatile software engineer with a strong background
 
 ## 🧠 Focus Areas
 
-- 🌐 **Backend Systems:** REST APIs using Flask and Django  
+- 🌐 **Backend Systems:** REST APIs using Flask, Django, and FastAPI, Next JS
 - 🤖 **AI/ML Projects:** Classification, optimization algorithms, hybrid models  
 - 🧮 **Data Analysis:** Working with real-world datasets for business insights  
 - 🏫 **Education & Mentorship:** Creating explainable content, guiding beginners, and sharing real-world experience  
